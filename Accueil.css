@@ -200,6 +200,7 @@
 .u-section-2 .u-text-2 {
   font-size: 1rem;
   font-style: italic;
+  font-weight: normal;
   margin: 12px 0 42px;
 }
 
@@ -262,10 +263,6 @@
   .u-section-2 .u-container-layout-1 {
     padding-left: 16px;
     padding-right: 16px;
-  }
-
-  .u-section-2 .u-text-2 {
-    font-weight: normal;
   }
 
   .u-section-2 .u-text-3 {
@@ -660,7 +657,7 @@
   }
 
   .u-section-4 .u-btn-4 {
-    margin-top: -402px;
+    margin-top: 20px;
     margin-bottom: 60px;
   }
 }
@@ -694,10 +691,6 @@
   .u-section-4 .u-btn-3 {
     margin-left: 6px;
     margin-right: 6px;
-  }
-
-  .u-section-4 .u-btn-4 {
-    margin-top: -358px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 778px;
