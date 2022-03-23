@@ -19,13 +19,12 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin-top: 0;
-  margin-bottom: 0;
   font-size: 1.875rem;
+  margin: 97px auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 20px 0 0;
+  margin: 19px 0 0;
 }
 
 .u-section-1 .u-social-icons-1 {
@@ -61,7 +60,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 406px;
-  background-image: url("images/3.jpg");
+  background-image: url("images/j41.jpeg");
   background-position: 50% 50%;
 }
 
